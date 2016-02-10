@@ -1,0 +1,21 @@
+body {
+	background-color: #f08080;
+}
+
+@media screen and (min-width: 675px) {
+	body {
+		background-color: #add8e6;
+	}
+}
+
+@media screen and (min-width: 999px) {
+	body {
+		background-color: #e0ffff;
+	}
+}
+
+@media screen and (min-width: 1280px) {
+	body {
+		background-color: #fafad2;
+	}
+}
