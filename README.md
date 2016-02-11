@@ -5,7 +5,9 @@ This assignment was a great introduction into understanding the first steps need
 
 ## Resources
 
-I did not use any resources outside of the lectures and my notes on this assignment.
+* [w3schools](http://www.w3schools.com/colors/colors_names.asp) was used to pick the desired colors for this assignment
+
+* Other than what is mentioned above, I did not use any resources outside of the lectures and my notes on this assignment.
 
 ## GitHub Repository
 
